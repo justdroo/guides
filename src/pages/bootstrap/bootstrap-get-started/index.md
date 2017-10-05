@@ -35,7 +35,7 @@ That's it! You're ready to start using Bootstrap. Check out the documentation fo
 
 While it's possible to <a href='https://github.com/twbs/bootstrap/archive/v4.0.0-beta.zip' alt='zip file of bootstrap version 4 source code'>download the source files</a> for Bootstrap, using a package manager allows you to always have an up to date version within your application. In order to use any of the package managers below, you are required to have a <a href='https://getbootstrap.com/docs/4.0/getting-started/download/#package-managers' alt='more information on SASS comiler and Autoprefixer'>SASS compiler and and Autoprefixer</a> for setup.
 
-NPM
+**NPM**
 
 In your terminal, run:
 
@@ -44,7 +44,7 @@ $ npm install bootstrap@4.0.0-beta
 ```
 For more information, take a look at the <a href="https://getbootstrap.com/docs/4.0/getting-started/download/#npm">Bootstrap</a> and <a href='https://www.npmjs.com/package/bootstrap' alt='bootstrap intallation through NPM documentation'>NPM</a> documentation.
 
-Ruby Gems
+**Ruby Gems**
 
 If you are using bundler for your project, add the following line to your gemfile
 ```
